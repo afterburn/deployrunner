@@ -6,11 +6,6 @@
 
 npm i --global deployrunner
 ```
-```
-// On the development server/local machine:
-
-npm i --global deployrunner
-```
 
 #### Usage
 ```
