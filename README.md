@@ -1,22 +1,22 @@
 ## Deployrunner
 ##### Small tool for automatically deploying git repositories
 #### Installation
-On the target machine:
 ```
+// On the target machine:
 npm i --global deployrunner
 ```
-On the development server/local machine:
 ```
+// On the development server/local machine:
 npm i --global deployrunner
 ```
 
 #### Usage
-On the target machine:
 ```
+// On the target machine:
 deployrunner start config.json
 ```
-On the development server/local machine:
 ```
+// On the development server/local machine:
 <push to master>
 ```
 
