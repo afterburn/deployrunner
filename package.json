@@ -1,11 +1,11 @@
 {
   "name": "deployrunner",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Small tool for automatically deploying git repositories",
   "bin": {
-    "deployrunner": "./index.js"
+    "deployrunner": "./bin/deployrunner.js"
   },
-  "main": "index.js",
+  "main": "./lib/deployrunner",
   "scripts": {},
   "keywords": [
     "task",
