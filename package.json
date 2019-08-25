@@ -1,6 +1,6 @@
 {
   "name": "deployrunner",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Small tool for automatically deploying git repositories",
   "bin": {
     "deployrunner": "./bin/deployrunner.js"
