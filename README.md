@@ -1,4 +1,5 @@
 ## Deployrunner
+![downloads](https://img.shields.io/npm/dt/deployrunner)
 ##### Small tool for automatically deploying git repositories
 #### Installation
 ```
